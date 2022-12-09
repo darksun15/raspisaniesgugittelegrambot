@@ -1,0 +1,2322 @@
+{
+    "1": {
+        "everD": "05.12",
+        "day": "Понедельник",
+        "starting_less": "12:10",
+        "finished_less": "13:40",
+        "names_of_less": "Методы и средства проектирования информационных систем и технологий",
+        "kabinet_of_less": "411",
+        "name_of_teacher": "доц. Басаргин Андрей Александрович",
+        "type_less": "лабораторная"
+    },
+    "2": {
+        "everD": "05.12",
+        "day": "Понедельник",
+        "starting_less": "13:50",
+        "finished_less": "15:20",
+        "names_of_less": "Инфокоммуникационные системы и сети",
+        "kabinet_of_less": "140",
+        "name_of_teacher": "асс. Миронов Павел Николаевич",
+        "type_less": "лабораторная"
+    },
+    "3": {
+        "everD": "05.12",
+        "day": "Понедельник",
+        "starting_less": "15:30",
+        "finished_less": "17:00",
+        "names_of_less": "Инфокоммуникационные системы и сети",
+        "kabinet_of_less": "429",
+        "name_of_teacher": "зав. каф. Бугакова  Татьяна  Юрьевна",
+        "type_less": "лекция"
+    },
+    "4": {
+        "everD": "06.12",
+        "day": "Вторник",
+        "starting_less": "12:10",
+        "finished_less": "13:40",
+        "names_of_less": "Корпоративные системы управления",
+        "kabinet_of_less": "406",
+        "name_of_teacher": "ст. преп. Воронкин Евгений Юрьевич",
+        "type_less": "лабораторная"
+    },
+    "5": {
+        "everD": "06.12",
+        "day": "Вторник",
+        "starting_less": "13:50",
+        "finished_less": "15:20",
+        "names_of_less": "Сопровождение и продвижение ПО",
+        "kabinet_of_less": "429",
+        "name_of_teacher": " ,      ",
+        "type_less": "лекция"
+    },
+    "6": {
+        "everD": "06.12",
+        "day": "Вторник",
+        "starting_less": "15:30",
+        "finished_less": "17:00",
+        "names_of_less": "Электроника и электротехника",
+        "kabinet_of_less": "307",
+        "name_of_teacher": "асс. Макеев Александр Викторович",
+        "type_less": "лабораторная"
+    },
+    "7": {
+        "everD": "07.12",
+        "day": "Среда",
+        "starting_less": "13:50",
+        "finished_less": "15:20",
+        "names_of_less": "Сопровождение и продвижение ПО",
+        "kabinet_of_less": "425",
+        "name_of_teacher": "асс. Шарапов Артем Андреевич",
+        "type_less": "лабораторная"
+    },
+    "8": {
+        "everD": "07.12",
+        "day": "Среда",
+        "starting_less": "15:30",
+        "finished_less": "17:00",
+        "names_of_less": "Иностранный язык",
+        "kabinet_of_less": "308",
+        "name_of_teacher": "асс. Черепова  Влада Вячеславовна",
+        "type_less": "лабораторная"
+    },
+    "9": {
+        "everD": "07.12",
+        "day": "Среда",
+        "starting_less": "17:10",
+        "finished_less": "18:40",
+        "names_of_less": "Методы и средства проектирования информационных систем и технологий",
+        "kabinet_of_less": "429",
+        "name_of_teacher": "доц. Басаргин Андрей Александрович",
+        "type_less": "лекция"
+    },
+    "10": {
+        "everD": "08.12",
+        "day": "Четверг",
+        "starting_less": "15:30",
+        "finished_less": "17:00",
+        "names_of_less": "Физическая культура и спорт (элективные дисциплины)",
+        "kabinet_of_less": " Без аудитории",
+        "name_of_teacher": "преп. Дьяченко Наталья  Николаевна",
+        "type_less": "практика"
+    },
+    "11": {
+        "everD": "08.12",
+        "day": "Четверг",
+        "starting_less": "17:10",
+        "finished_less": "18:40",
+        "names_of_less": "Физическая культура и спорт (элективные дисциплины)",
+        "kabinet_of_less": " Без аудитории",
+        "name_of_teacher": "преп. Дьяченко Наталья  Николаевна",
+        "type_less": "практика"
+    },
+    "12": {
+        "everD": "09.12",
+        "day": "Пятница",
+        "starting_less": "08:30",
+        "finished_less": "10:00",
+        "names_of_less": "Корпоративные системы управления",
+        "kabinet_of_less": "406",
+        "name_of_teacher": "ст. преп. Воронкин Евгений Юрьевич",
+        "type_less": "лабораторная"
+    },
+    "13": {
+        "everD": "09.12",
+        "day": "Пятница",
+        "starting_less": "10:10",
+        "finished_less": "11:40",
+        "names_of_less": "Введение в современные web-технологии",
+        "kabinet_of_less": "406",
+        "name_of_teacher": "ст. преп. Воронкин Евгений Юрьевич",
+        "type_less": "лабораторная"
+    },
+    "14": {
+        "everD": "09.12",
+        "day": "Пятница",
+        "starting_less": "12:10",
+        "finished_less": "13:40",
+        "names_of_less": "Корпоративные системы управления",
+        "kabinet_of_less": "429",
+        "name_of_teacher": "ст. преп. Воронкин Евгений Юрьевич",
+        "type_less": "лекция"
+    },
+    "15": {
+        "everD": "09.12",
+        "day": "Пятница",
+        "starting_less": "13:50",
+        "finished_less": "15:20",
+        "names_of_less": "Правоведение",
+        "kabinet_of_less": "320",
+        "name_of_teacher": "доц. Ступина Наталья  Сергеевна",
+        "type_less": "практика"
+    },
+    "16": {
+        "everD": "10.12",
+        "day": "Суббота",
+        "starting_less": "10:10",
+        "finished_less": "11:40",
+        "names_of_less": "Электроника и электротехника",
+        "kabinet_of_less": "230",
+        "name_of_teacher": "доц. Титов  Дмитрий Николаевич",
+        "type_less": "лекция"
+    },
+    "17": {
+        "everD": "10.12",
+        "day": "Суббота",
+        "starting_less": "12:10",
+        "finished_less": "13:40",
+        "names_of_less": "Правоведение",
+        "kabinet_of_less": "429",
+        "name_of_teacher": "доц. Ступина Наталья  Сергеевна",
+        "type_less": "лекция"
+    },
+    "18": {
+        "everD": "12.12",
+        "day": "Понедельник",
+        "starting_less": "08:30",
+        "finished_less": "10:00",
+        "names_of_less": "Правоведение",
+        "kabinet_of_less": "320",
+        "name_of_teacher": "доц. Ступина Наталья  Сергеевна",
+        "type_less": "практика"
+    },
+    "19": {
+        "everD": "12.12",
+        "day": "Понедельник",
+        "starting_less": "10:10",
+        "finished_less": "11:40",
+        "names_of_less": "Сопровождение и продвижение ПО",
+        "kabinet_of_less": "425",
+        "name_of_teacher": "асс. Шарапов Артем Андреевич",
+        "type_less": "лабораторная"
+    },
+    "20": {
+        "everD": "12.12",
+        "day": "Понедельник",
+        "starting_less": "12:10",
+        "finished_less": "13:40",
+        "names_of_less": "Инфокоммуникационные системы и сети",
+        "kabinet_of_less": "429",
+        "name_of_teacher": "зав. каф. Бугакова  Татьяна  Юрьевна",
+        "type_less": "лекция"
+    },
+    "21": {
+        "everD": "13.12",
+        "day": "Вторник",
+        "starting_less": "10:10",
+        "finished_less": "11:40",
+        "names_of_less": "Методы и средства проектирования информационных систем и технологий",
+        "kabinet_of_less": "427",
+        "name_of_teacher": "доц. Басаргин Андрей Александрович",
+        "type_less": "лабораторная"
+    },
+    "22": {
+        "everD": "13.12",
+        "day": "Вторник",
+        "starting_less": "12:10",
+        "finished_less": "13:40",
+        "names_of_less": "Инфокоммуникационные системы и сети",
+        "kabinet_of_less": "140",
+        "name_of_teacher": "асс. Миронов Павел Николаевич",
+        "type_less": "лабораторная"
+    },
+    "23": {
+        "everD": "13.12",
+        "day": "Вторник",
+        "starting_less": "13:50",
+        "finished_less": "15:20",
+        "names_of_less": "Электроника и электротехника",
+        "kabinet_of_less": "307",
+        "name_of_teacher": "асс. Макеев Александр Викторович",
+        "type_less": "лабораторная"
+    },
+    "24": {
+        "everD": "13.12",
+        "day": "Вторник",
+        "starting_less": "15:30",
+        "finished_less": "17:00",
+        "names_of_less": "Корпоративные системы управления",
+        "kabinet_of_less": "227",
+        "name_of_teacher": "ст. преп. Воронкин Евгений Юрьевич",
+        "type_less": "лекция"
+    },
+    "25": {
+        "everD": "14.12",
+        "day": "Среда",
+        "starting_less": "08:30",
+        "finished_less": "10:00",
+        "names_of_less": "Методы и средства проектирования информационных систем и технологий",
+        "kabinet_of_less": "427",
+        "name_of_teacher": "доц. Басаргин Андрей Александрович",
+        "type_less": "лабораторная"
+    },
+    "26": {
+        "everD": "14.12",
+        "day": "Среда",
+        "starting_less": "10:10",
+        "finished_less": "11:40",
+        "names_of_less": "Введение в современные web-технологии",
+        "kabinet_of_less": "429",
+        "name_of_teacher": "ст. преп. Воронкин Евгений Юрьевич",
+        "type_less": "лекция"
+    },
+    "27": {
+        "everD": "14.12",
+        "day": "Среда",
+        "starting_less": "12:10",
+        "finished_less": "13:40",
+        "names_of_less": "Сопровождение и продвижение ПО",
+        "kabinet_of_less": "425",
+        "name_of_teacher": "асс. Шарапов Артем Андреевич",
+        "type_less": "лабораторная"
+    },
+    "28": {
+        "everD": "15.12",
+        "day": "Четверг",
+        "starting_less": "15:30",
+        "finished_less": "17:00",
+        "names_of_less": "Физическая культура и спорт (элективные дисциплины)",
+        "kabinet_of_less": " Без аудитории",
+        "name_of_teacher": "преп. Дьяченко Наталья  Николаевна",
+        "type_less": "практика"
+    },
+    "29": {
+        "everD": "16.12",
+        "day": "Пятница",
+        "starting_less": "10:10",
+        "finished_less": "11:40",
+        "names_of_less": "Инфокоммуникационные системы и сети",
+        "kabinet_of_less": "140",
+        "name_of_teacher": "асс. Миронов Павел Николаевич",
+        "type_less": "лабораторная"
+    },
+    "30": {
+        "everD": "16.12",
+        "day": "Пятница",
+        "starting_less": "12:10",
+        "finished_less": "13:40",
+        "names_of_less": "Иностранный язык",
+        "kabinet_of_less": "308",
+        "name_of_teacher": "асс. Черепова  Влада Вячеславовна",
+        "type_less": "лабораторная"
+    },
+    "31": {
+        "everD": "16.12",
+        "day": "Пятница",
+        "starting_less": "13:50",
+        "finished_less": "15:20",
+        "names_of_less": "Корпоративные системы управления",
+        "kabinet_of_less": "406",
+        "name_of_teacher": "ст. преп. Воронкин Евгений Юрьевич",
+        "type_less": "лабораторная"
+    },
+    "32": {
+        "everD": "17.12",
+        "day": "Суббота",
+        "starting_less": "12:10",
+        "finished_less": "13:40",
+        "names_of_less": "Методы и средства проектирования информационных систем и технологий",
+        "kabinet_of_less": "429",
+        "name_of_teacher": "доц. Басаргин Андрей Александрович",
+        "type_less": "лекция"
+    },
+    "33": {
+        "everD": "17.12",
+        "day": "Суббота",
+        "starting_less": "13:50",
+        "finished_less": "15:20",
+        "names_of_less": "Сопровождение и продвижение ПО",
+        "kabinet_of_less": "310",
+        "name_of_teacher": " ,      ",
+        "type_less": "лекция"
+    },
+    "34": {
+        "everD": "19.12",
+        "day": "Понедельник",
+        "starting_less": "12:10",
+        "finished_less": "13:40",
+        "names_of_less": "Методы и средства проектирования информационных систем и технологий",
+        "kabinet_of_less": "411",
+        "name_of_teacher": "доц. Басаргин Андрей Александрович",
+        "type_less": "лабораторная"
+    },
+    "35": {
+        "everD": "19.12",
+        "day": "Понедельник",
+        "starting_less": "13:50",
+        "finished_less": "15:20",
+        "names_of_less": "Инфокоммуникационные системы и сети",
+        "kabinet_of_less": "140",
+        "name_of_teacher": "асс. Миронов Павел Николаевич",
+        "type_less": "лабораторная"
+    },
+    "36": {
+        "everD": "19.12",
+        "day": "Понедельник",
+        "starting_less": "15:30",
+        "finished_less": "17:00",
+        "names_of_less": "Инфокоммуникационные системы и сети",
+        "kabinet_of_less": "429",
+        "name_of_teacher": "зав. каф. Бугакова  Татьяна  Юрьевна",
+        "type_less": "лекция"
+    },
+    "37": {
+        "everD": "20.12",
+        "day": "Вторник",
+        "starting_less": "12:10",
+        "finished_less": "13:40",
+        "names_of_less": "Корпоративные системы управления",
+        "kabinet_of_less": "406",
+        "name_of_teacher": "ст. преп. Воронкин Евгений Юрьевич",
+        "type_less": "лабораторная"
+    },
+    "38": {
+        "everD": "20.12",
+        "day": "Вторник",
+        "starting_less": "13:50",
+        "finished_less": "15:20",
+        "names_of_less": "Сопровождение и продвижение ПО",
+        "kabinet_of_less": "429",
+        "name_of_teacher": " ,      ",
+        "type_less": "лекция"
+    },
+    "39": {
+        "everD": "20.12",
+        "day": "Вторник",
+        "starting_less": "15:30",
+        "finished_less": "17:00",
+        "names_of_less": "Электроника и электротехника",
+        "kabinet_of_less": "307",
+        "name_of_teacher": "асс. Макеев Александр Викторович",
+        "type_less": "лабораторная"
+    },
+    "40": {
+        "everD": "21.12",
+        "day": "Среда",
+        "starting_less": "13:50",
+        "finished_less": "15:20",
+        "names_of_less": "Сопровождение и продвижение ПО",
+        "kabinet_of_less": "425",
+        "name_of_teacher": "асс. Шарапов Артем Андреевич",
+        "type_less": "лабораторная"
+    },
+    "41": {
+        "everD": "21.12",
+        "day": "Среда",
+        "starting_less": "15:30",
+        "finished_less": "17:00",
+        "names_of_less": "Иностранный язык",
+        "kabinet_of_less": "308",
+        "name_of_teacher": "асс. Черепова  Влада Вячеславовна",
+        "type_less": "лабораторная"
+    },
+    "42": {
+        "everD": "21.12",
+        "day": "Среда",
+        "starting_less": "17:10",
+        "finished_less": "18:40",
+        "names_of_less": "Методы и средства проектирования информационных систем и технологий",
+        "kabinet_of_less": "429",
+        "name_of_teacher": "доц. Басаргин Андрей Александрович",
+        "type_less": "лекция"
+    },
+    "43": {
+        "everD": "22.12",
+        "day": "Четверг",
+        "starting_less": "15:30",
+        "finished_less": "17:00",
+        "names_of_less": "Физическая культура и спорт (элективные дисциплины)",
+        "kabinet_of_less": " Без аудитории",
+        "name_of_teacher": "преп. Дьяченко Наталья  Николаевна",
+        "type_less": "практика"
+    },
+    "44": {
+        "everD": "22.12",
+        "day": "Четверг",
+        "starting_less": "17:10",
+        "finished_less": "18:40",
+        "names_of_less": "Физическая культура и спорт (элективные дисциплины)",
+        "kabinet_of_less": " Без аудитории",
+        "name_of_teacher": "преп. Дьяченко Наталья  Николаевна",
+        "type_less": "практика"
+    },
+    "45": {
+        "everD": "23.12",
+        "day": "Пятница",
+        "starting_less": "08:30",
+        "finished_less": "10:00",
+        "names_of_less": "Корпоративные системы управления",
+        "kabinet_of_less": "406",
+        "name_of_teacher": "ст. преп. Воронкин Евгений Юрьевич",
+        "type_less": "лабораторная"
+    },
+    "46": {
+        "everD": "23.12",
+        "day": "Пятница",
+        "starting_less": "10:10",
+        "finished_less": "11:40",
+        "names_of_less": "Введение в современные web-технологии",
+        "kabinet_of_less": "406",
+        "name_of_teacher": "ст. преп. Воронкин Евгений Юрьевич",
+        "type_less": "лабораторная"
+    },
+    "47": {
+        "everD": "23.12",
+        "day": "Пятница",
+        "starting_less": "12:10",
+        "finished_less": "13:40",
+        "names_of_less": "Корпоративные системы управления",
+        "kabinet_of_less": "429",
+        "name_of_teacher": "ст. преп. Воронкин Евгений Юрьевич",
+        "type_less": "лекция"
+    },
+    "48": {
+        "everD": "23.12",
+        "day": "Пятница",
+        "starting_less": "13:50",
+        "finished_less": "15:20",
+        "names_of_less": "Правоведение",
+        "kabinet_of_less": "320",
+        "name_of_teacher": "доц. Ступина Наталья  Сергеевна",
+        "type_less": "практика"
+    },
+    "49": {
+        "everD": "24.12",
+        "day": "Суббота",
+        "starting_less": "10:10",
+        "finished_less": "11:40",
+        "names_of_less": "Электроника и электротехника",
+        "kabinet_of_less": "230",
+        "name_of_teacher": "доц. Титов  Дмитрий Николаевич",
+        "type_less": "лекция"
+    },
+    "50": {
+        "everD": "24.12",
+        "day": "Суббота",
+        "starting_less": "12:10",
+        "finished_less": "13:40",
+        "names_of_less": "Сопровождение и продвижение ПО",
+        "kabinet_of_less": "429",
+        "name_of_teacher": " ,      ",
+        "type_less": "лекция"
+    },
+    "51": {
+        "everD": "26.12",
+        "day": "Понедельник",
+        "starting_less": "10:10",
+        "finished_less": "11:40",
+        "names_of_less": "Сопровождение и продвижение ПО",
+        "kabinet_of_less": "425",
+        "name_of_teacher": "асс. Шарапов Артем Андреевич",
+        "type_less": "лабораторная"
+    },
+    "52": {
+        "everD": "26.12",
+        "day": "Понедельник",
+        "starting_less": "12:10",
+        "finished_less": "13:40",
+        "names_of_less": "Инфокоммуникационные системы и сети",
+        "kabinet_of_less": "429",
+        "name_of_teacher": "зав. каф. Бугакова  Татьяна  Юрьевна",
+        "type_less": "лекция"
+    },
+    "53": {
+        "everD": "27.12",
+        "day": "Вторник",
+        "starting_less": "10:10",
+        "finished_less": "11:40",
+        "names_of_less": "Методы и средства проектирования информационных систем и технологий",
+        "kabinet_of_less": "427",
+        "name_of_teacher": "доц. Басаргин Андрей Александрович",
+        "type_less": "лабораторная"
+    },
+    "54": {
+        "everD": "27.12",
+        "day": "Вторник",
+        "starting_less": "12:10",
+        "finished_less": "13:40",
+        "names_of_less": "Инфокоммуникационные системы и сети",
+        "kabinet_of_less": "140",
+        "name_of_teacher": "асс. Миронов Павел Николаевич",
+        "type_less": "лабораторная"
+    },
+    "55": {
+        "everD": "27.12",
+        "day": "Вторник",
+        "starting_less": "13:50",
+        "finished_less": "15:20",
+        "names_of_less": "Электроника и электротехника",
+        "kabinet_of_less": "307",
+        "name_of_teacher": "асс. Макеев Александр Викторович",
+        "type_less": "лабораторная"
+    },
+    "56": {
+        "everD": "28.12",
+        "day": "Среда",
+        "starting_less": "08:30",
+        "finished_less": "10:00",
+        "names_of_less": "Методы и средства проектирования информационных систем и технологий",
+        "kabinet_of_less": "427",
+        "name_of_teacher": "доц. Басаргин Андрей Александрович",
+        "type_less": "лабораторная"
+    },
+    "57": {
+        "everD": "28.12",
+        "day": "Среда",
+        "starting_less": "10:10",
+        "finished_less": "11:40",
+        "names_of_less": "Введение в современные web-технологии",
+        "kabinet_of_less": "429",
+        "name_of_teacher": "ст. преп. Воронкин Евгений Юрьевич",
+        "type_less": "лекция"
+    },
+    "58": {
+        "everD": "28.12",
+        "day": "Среда",
+        "starting_less": "12:10",
+        "finished_less": "13:40",
+        "names_of_less": "Сопровождение и продвижение ПО",
+        "kabinet_of_less": "425",
+        "name_of_teacher": "асс. Шарапов Артем Андреевич",
+        "type_less": "лабораторная"
+    },
+    "59": {
+        "everD": "29.12",
+        "day": "Четверг",
+        "starting_less": "15:30",
+        "finished_less": "17:00",
+        "names_of_less": "Физическая культура и спорт (элективные дисциплины)",
+        "kabinet_of_less": " Без аудитории",
+        "name_of_teacher": "преп. Дьяченко Наталья  Николаевна",
+        "type_less": "практика"
+    },
+    "60": {
+        "everD": "30.12",
+        "day": "Пятница",
+        "starting_less": "10:10",
+        "finished_less": "11:40",
+        "names_of_less": "Инфокоммуникационные системы и сети",
+        "kabinet_of_less": "140",
+        "name_of_teacher": "асс. Миронов Павел Николаевич",
+        "type_less": "лабораторная"
+    },
+    "61": {
+        "everD": "30.12",
+        "day": "Пятница",
+        "starting_less": "12:10",
+        "finished_less": "13:40",
+        "names_of_less": "Иностранный язык",
+        "kabinet_of_less": "308",
+        "name_of_teacher": "асс. Черепова  Влада Вячеславовна",
+        "type_less": "лабораторная"
+    },
+    "62": {
+        "everD": "30.12",
+        "day": "Пятница",
+        "starting_less": "13:50",
+        "finished_less": "15:20",
+        "names_of_less": "Корпоративные системы управления",
+        "kabinet_of_less": "406",
+        "name_of_teacher": "ст. преп. Воронкин Евгений Юрьевич",
+        "type_less": "лабораторная"
+    },
+    "63": {
+        "everD": "10.01",
+        "day": "Вторник",
+        "starting_less": "13:50",
+        "finished_less": "15:20",
+        "names_of_less": "Инфокоммуникационные системы и сети",
+        "kabinet_of_less": "140",
+        "name_of_teacher": "зав. каф. Бугакова  Татьяна  Юрьевна",
+        "type_less": "групповая консультация"
+    },
+    "64": {
+        "everD": "11.01",
+        "day": "Среда",
+        "starting_less": "10:10",
+        "finished_less": "11:40",
+        "names_of_less": "Инфокоммуникационные системы и сети",
+        "kabinet_of_less": "140",
+        "name_of_teacher": "зав. каф. Бугакова  Татьяна  Юрьевна",
+        "type_less": "экзамен"
+    },
+    "65": {
+        "everD": "11.01",
+        "day": "Среда",
+        "starting_less": "12:10",
+        "finished_less": "13:40",
+        "names_of_less": "Инфокоммуникационные системы и сети",
+        "kabinet_of_less": "140",
+        "name_of_teacher": "зав. каф. Бугакова  Татьяна  Юрьевна",
+        "type_less": "экзамен"
+    },
+    "66": {
+        "everD": "11.01",
+        "day": "Среда",
+        "starting_less": "13:50",
+        "finished_less": "15:20",
+        "names_of_less": "Инфокоммуникационные системы и сети",
+        "kabinet_of_less": "140",
+        "name_of_teacher": "зав. каф. Бугакова  Татьяна  Юрьевна",
+        "type_less": "экзамен"
+    },
+    "67": {
+        "everD": "14.01",
+        "day": "Суббота",
+        "starting_less": "13:50",
+        "finished_less": "15:20",
+        "names_of_less": "Электроника и электротехника",
+        "kabinet_of_less": "307",
+        "name_of_teacher": "доц. Титов  Дмитрий Николаевич",
+        "type_less": "групповая консультация"
+    },
+    "68": {
+        "everD": "16.01",
+        "day": "Понедельник",
+        "starting_less": "10:10",
+        "finished_less": "11:40",
+        "names_of_less": "Электроника и электротехника",
+        "kabinet_of_less": "307",
+        "name_of_teacher": "доц. Титов  Дмитрий Николаевич",
+        "type_less": "экзамен"
+    },
+    "69": {
+        "everD": "16.01",
+        "day": "Понедельник",
+        "starting_less": "12:10",
+        "finished_less": "13:40",
+        "names_of_less": "Электроника и электротехника",
+        "kabinet_of_less": "307",
+        "name_of_teacher": "доц. Титов  Дмитрий Николаевич",
+        "type_less": "экзамен"
+    },
+    "70": {
+        "everD": "16.01",
+        "day": "Понедельник",
+        "starting_less": "13:50",
+        "finished_less": "15:20",
+        "names_of_less": "Электроника и электротехника",
+        "kabinet_of_less": "307",
+        "name_of_teacher": "доц. Титов  Дмитрий Николаевич",
+        "type_less": "экзамен"
+    },
+    "71": {
+        "everD": "19.01",
+        "day": "Четверг",
+        "starting_less": "10:10",
+        "finished_less": "11:40",
+        "names_of_less": "Сопровождение и продвижение ПО",
+        "kabinet_of_less": "425",
+        "name_of_teacher": "зав. каф. Бугакова  Татьяна  Юрьевна",
+        "type_less": "групповая консультация"
+    },
+    "72": {
+        "everD": "20.01",
+        "day": "Пятница",
+        "starting_less": "08:30",
+        "finished_less": "10:00",
+        "names_of_less": "Сопровождение и продвижение ПО",
+        "kabinet_of_less": "425",
+        "name_of_teacher": "зав. каф. Бугакова  Татьяна  Юрьевна",
+        "type_less": "экзамен"
+    },
+    "73": {
+        "everD": "20.01",
+        "day": "Пятница",
+        "starting_less": "10:10",
+        "finished_less": "11:40",
+        "names_of_less": "Сопровождение и продвижение ПО",
+        "kabinet_of_less": "425",
+        "name_of_teacher": "зав. каф. Бугакова  Татьяна  Юрьевна",
+        "type_less": "экзамен"
+    },
+    "74": {
+        "everD": "20.01",
+        "day": "Пятница",
+        "starting_less": "12:10",
+        "finished_less": "13:40",
+        "names_of_less": "Сопровождение и продвижение ПО",
+        "kabinet_of_less": "425",
+        "name_of_teacher": "зав. каф. Бугакова  Татьяна  Юрьевна",
+        "type_less": "экзамен"
+    },
+    "75": {
+        "everD": "23.01",
+        "day": "Понедельник",
+        "starting_less": "13:50",
+        "finished_less": "15:20",
+        "names_of_less": "Корпоративные системы управления",
+        "kabinet_of_less": "406",
+        "name_of_teacher": "ст. преп. Воронкин Евгений Юрьевич",
+        "type_less": "групповая консультация"
+    },
+    "76": {
+        "everD": "24.01",
+        "day": "Вторник",
+        "starting_less": "12:10",
+        "finished_less": "13:40",
+        "names_of_less": "Корпоративные системы управления",
+        "kabinet_of_less": "406",
+        "name_of_teacher": "ст. преп. Воронкин Евгений Юрьевич",
+        "type_less": "экзамен"
+    },
+    "77": {
+        "everD": "24.01",
+        "day": "Вторник",
+        "starting_less": "13:50",
+        "finished_less": "15:20",
+        "names_of_less": "Корпоративные системы управления",
+        "kabinet_of_less": "406",
+        "name_of_teacher": "ст. преп. Воронкин Евгений Юрьевич",
+        "type_less": "экзамен"
+    },
+    "78": {
+        "everD": "13.02",
+        "day": "Понедельник",
+        "starting_less": "10:10",
+        "finished_less": "11:40",
+        "names_of_less": "Основы сетевых технологий",
+        "kabinet_of_less": "140",
+        "name_of_teacher": "асс. Миронов Павел Николаевич",
+        "type_less": "лабораторная"
+    },
+    "79": {
+        "everD": "13.02",
+        "day": "Понедельник",
+        "starting_less": "12:10",
+        "finished_less": "13:40",
+        "names_of_less": "Большие данные",
+        "kabinet_of_less": "202",
+        "name_of_teacher": "асс. Шарапов Артем Андреевич",
+        "type_less": "лекция"
+    },
+    "80": {
+        "everD": "13.02",
+        "day": "Понедельник",
+        "starting_less": "13:50",
+        "finished_less": "15:20",
+        "names_of_less": "Безопасность жизнедеятельности",
+        "kabinet_of_less": "227",
+        "name_of_teacher": "доц. Петрова Наталья Владимировна",
+        "type_less": "лекция"
+    },
+    "81": {
+        "everD": "14.02",
+        "day": "Вторник",
+        "starting_less": "10:10",
+        "finished_less": "11:40",
+        "names_of_less": "Web - дизайн",
+        "kabinet_of_less": "406",
+        "name_of_teacher": "ст. преп. Воронкин Евгений Юрьевич",
+        "type_less": "лабораторная"
+    },
+    "82": {
+        "everD": "14.02",
+        "day": "Вторник",
+        "starting_less": "12:10",
+        "finished_less": "13:40",
+        "names_of_less": "Методы и средства проектирования информационных систем и технологий",
+        "kabinet_of_less": "429",
+        "name_of_teacher": "доц. Басаргин Андрей Александрович",
+        "type_less": "лекция"
+    },
+    "83": {
+        "everD": "14.02",
+        "day": "Вторник",
+        "starting_less": "13:50",
+        "finished_less": "15:20",
+        "names_of_less": "Иностранный язык",
+        "kabinet_of_less": "311",
+        "name_of_teacher": "асс. Черепова  Влада Вячеславовна",
+        "type_less": "лабораторная"
+    },
+    "84": {
+        "everD": "15.02",
+        "day": "Среда",
+        "starting_less": "08:30",
+        "finished_less": "10:00",
+        "names_of_less": "Безопасность жизнедеятельности",
+        "kabinet_of_less": "225",
+        "name_of_teacher": "доц. Петрова Наталья Владимировна",
+        "type_less": "практика"
+    },
+    "85": {
+        "everD": "15.02",
+        "day": "Среда",
+        "starting_less": "10:10",
+        "finished_less": "11:40",
+        "names_of_less": "Прикладное программирование",
+        "kabinet_of_less": "429",
+        "name_of_teacher": "доц. Бугаков  Петр Юрьевич",
+        "type_less": "лекция"
+    },
+    "86": {
+        "everD": "15.02",
+        "day": "Среда",
+        "starting_less": "12:10",
+        "finished_less": "13:40",
+        "names_of_less": "Методы и средства проектирования информационных систем и технологий",
+        "kabinet_of_less": "427",
+        "name_of_teacher": "доц. Басаргин Андрей Александрович",
+        "type_less": "лабораторная"
+    },
+    "87": {
+        "everD": "15.02",
+        "day": "Среда",
+        "starting_less": "13:50",
+        "finished_less": "15:20",
+        "names_of_less": "Большие данные",
+        "kabinet_of_less": "36",
+        "name_of_teacher": "асс. Гришин Руслан Владимирович",
+        "type_less": "лабораторная"
+    },
+    "88": {
+        "everD": "16.02",
+        "day": "Четверг",
+        "starting_less": "15:30",
+        "finished_less": "17:00",
+        "names_of_less": "Физическая культура и спорт (элективные дисциплины)",
+        "kabinet_of_less": " Без аудитории",
+        "name_of_teacher": "ст. преп. Пичугина Надежда Юрьевна",
+        "type_less": "практика"
+    },
+    "89": {
+        "everD": "16.02",
+        "day": "Четверг",
+        "starting_less": "17:10",
+        "finished_less": "18:40",
+        "names_of_less": "Физическая культура и спорт (элективные дисциплины)",
+        "kabinet_of_less": " Без аудитории",
+        "name_of_teacher": "ст. преп. Пичугина Надежда Юрьевна",
+        "type_less": "практика"
+    },
+    "90": {
+        "everD": "17.02",
+        "day": "Пятница",
+        "starting_less": "12:10",
+        "finished_less": "13:40",
+        "names_of_less": "Основы сетевых технологий",
+        "kabinet_of_less": "430",
+        "name_of_teacher": "асс. Миронов Павел Николаевич",
+        "type_less": "лекция"
+    },
+    "91": {
+        "everD": "17.02",
+        "day": "Пятница",
+        "starting_less": "13:50",
+        "finished_less": "15:20",
+        "names_of_less": "Методы и средства проектирования информационных систем и технологий",
+        "kabinet_of_less": "421",
+        "name_of_teacher": "доц. Басаргин Андрей Александрович",
+        "type_less": "лабораторная"
+    },
+    "92": {
+        "everD": "17.02",
+        "day": "Пятница",
+        "starting_less": "15:30",
+        "finished_less": "17:00",
+        "names_of_less": "Основы сетевых технологий",
+        "kabinet_of_less": "140",
+        "name_of_teacher": "асс. Миронов Павел Николаевич",
+        "type_less": "лабораторная"
+    },
+    "93": {
+        "everD": "18.02",
+        "day": "Суббота",
+        "starting_less": "08:30",
+        "finished_less": "10:00",
+        "names_of_less": "Прикладное программирование",
+        "kabinet_of_less": "427",
+        "name_of_teacher": "доц. Бугаков  Петр Юрьевич",
+        "type_less": "лабораторная"
+    },
+    "94": {
+        "everD": "18.02",
+        "day": "Суббота",
+        "starting_less": "10:10",
+        "finished_less": "11:40",
+        "names_of_less": "Большие данные",
+        "kabinet_of_less": "406",
+        "name_of_teacher": "асс. Гришин Руслан Владимирович",
+        "type_less": "лабораторная"
+    },
+    "95": {
+        "everD": "20.02",
+        "day": "Понедельник",
+        "starting_less": "12:10",
+        "finished_less": "13:40",
+        "names_of_less": "Безопасность жизнедеятельности",
+        "kabinet_of_less": "310",
+        "name_of_teacher": "доц. Петрова Наталья Владимировна",
+        "type_less": "лекция"
+    },
+    "96": {
+        "everD": "20.02",
+        "day": "Понедельник",
+        "starting_less": "13:50",
+        "finished_less": "15:20",
+        "names_of_less": "Большие данные",
+        "kabinet_of_less": "36",
+        "name_of_teacher": "асс. Гришин Руслан Владимирович",
+        "type_less": "лабораторная"
+    },
+    "97": {
+        "everD": "20.02",
+        "day": "Понедельник",
+        "starting_less": "15:30",
+        "finished_less": "17:00",
+        "names_of_less": "Иностранный язык",
+        "kabinet_of_less": "311",
+        "name_of_teacher": "асс. Черепова  Влада Вячеславовна",
+        "type_less": "лабораторная"
+    },
+    "98": {
+        "everD": "21.02",
+        "day": "Вторник",
+        "starting_less": "12:10",
+        "finished_less": "13:40",
+        "names_of_less": "Web - дизайн",
+        "kabinet_of_less": "429",
+        "name_of_teacher": "ст. преп. Воронкин Евгений Юрьевич",
+        "type_less": "лекция"
+    },
+    "99": {
+        "everD": "21.02",
+        "day": "Вторник",
+        "starting_less": "13:50",
+        "finished_less": "15:20",
+        "names_of_less": "Web - дизайн",
+        "kabinet_of_less": "421",
+        "name_of_teacher": "ст. преп. Воронкин Евгений Юрьевич",
+        "type_less": "лабораторная"
+    },
+    "100": {
+        "everD": "21.02",
+        "day": "Вторник",
+        "starting_less": "15:30",
+        "finished_less": "17:00",
+        "names_of_less": "Методы и средства проектирования информационных систем и технологий",
+        "kabinet_of_less": "427",
+        "name_of_teacher": "доц. Басаргин Андрей Александрович",
+        "type_less": "лабораторная"
+    },
+    "101": {
+        "everD": "22.02",
+        "day": "Среда",
+        "starting_less": "10:10",
+        "finished_less": "11:40",
+        "names_of_less": "Большие данные",
+        "kabinet_of_less": "227",
+        "name_of_teacher": "асс. Шарапов Артем Андреевич",
+        "type_less": "лекция"
+    },
+    "102": {
+        "everD": "22.02",
+        "day": "Среда",
+        "starting_less": "12:10",
+        "finished_less": "13:40",
+        "names_of_less": "Прикладное программирование",
+        "kabinet_of_less": "202",
+        "name_of_teacher": "доц. Бугаков  Петр Юрьевич",
+        "type_less": "лекция"
+    },
+    "103": {
+        "everD": "22.02",
+        "day": "Среда",
+        "starting_less": "13:50",
+        "finished_less": "15:20",
+        "names_of_less": "Иностранный язык",
+        "kabinet_of_less": "311",
+        "name_of_teacher": "асс. Черепова  Влада Вячеславовна",
+        "type_less": "лабораторная"
+    },
+    "104": {
+        "everD": "22.02",
+        "day": "Среда",
+        "starting_less": "15:30",
+        "finished_less": "17:00",
+        "names_of_less": "Основы сетевых технологий",
+        "kabinet_of_less": "140",
+        "name_of_teacher": "асс. Миронов Павел Николаевич",
+        "type_less": "лабораторная"
+    },
+    "105": {
+        "everD": "23.02",
+        "day": "Четверг",
+        "starting_less": "15:30",
+        "finished_less": "17:00",
+        "names_of_less": "Физическая культура и спорт (элективные дисциплины)",
+        "kabinet_of_less": " Без аудитории",
+        "name_of_teacher": "ст. преп. Пичугина Надежда Юрьевна",
+        "type_less": "практика"
+    },
+    "106": {
+        "everD": "24.02",
+        "day": "Пятница",
+        "starting_less": "10:10",
+        "finished_less": "11:40",
+        "names_of_less": "Прикладное программирование",
+        "kabinet_of_less": "427",
+        "name_of_teacher": "доц. Бугаков  Петр Юрьевич",
+        "type_less": "лабораторная"
+    },
+    "107": {
+        "everD": "24.02",
+        "day": "Пятница",
+        "starting_less": "12:10",
+        "finished_less": "13:40",
+        "names_of_less": "Безопасность жизнедеятельности",
+        "kabinet_of_less": "225",
+        "name_of_teacher": "доц. Петрова Наталья Владимировна",
+        "type_less": "практика"
+    },
+    "108": {
+        "everD": "24.02",
+        "day": "Пятница",
+        "starting_less": "13:50",
+        "finished_less": "15:20",
+        "names_of_less": "Методы и средства проектирования информационных систем и технологий",
+        "kabinet_of_less": "227",
+        "name_of_teacher": "доц. Басаргин Андрей Александрович",
+        "type_less": "лекция"
+    },
+    "109": {
+        "everD": "27.02",
+        "day": "Понедельник",
+        "starting_less": "10:10",
+        "finished_less": "11:40",
+        "names_of_less": "Основы сетевых технологий",
+        "kabinet_of_less": "140",
+        "name_of_teacher": "асс. Миронов Павел Николаевич",
+        "type_less": "лабораторная"
+    },
+    "110": {
+        "everD": "27.02",
+        "day": "Понедельник",
+        "starting_less": "12:10",
+        "finished_less": "13:40",
+        "names_of_less": "Большие данные",
+        "kabinet_of_less": "202",
+        "name_of_teacher": "асс. Шарапов Артем Андреевич",
+        "type_less": "лекция"
+    },
+    "111": {
+        "everD": "27.02",
+        "day": "Понедельник",
+        "starting_less": "13:50",
+        "finished_less": "15:20",
+        "names_of_less": "Безопасность жизнедеятельности",
+        "kabinet_of_less": "227",
+        "name_of_teacher": "доц. Петрова Наталья Владимировна",
+        "type_less": "лекция"
+    },
+    "112": {
+        "everD": "28.02",
+        "day": "Вторник",
+        "starting_less": "10:10",
+        "finished_less": "11:40",
+        "names_of_less": "Web - дизайн",
+        "kabinet_of_less": "406",
+        "name_of_teacher": "ст. преп. Воронкин Евгений Юрьевич",
+        "type_less": "лабораторная"
+    },
+    "113": {
+        "everD": "28.02",
+        "day": "Вторник",
+        "starting_less": "12:10",
+        "finished_less": "13:40",
+        "names_of_less": "Методы и средства проектирования информационных систем и технологий",
+        "kabinet_of_less": "429",
+        "name_of_teacher": "доц. Басаргин Андрей Александрович",
+        "type_less": "лекция"
+    },
+    "114": {
+        "everD": "28.02",
+        "day": "Вторник",
+        "starting_less": "13:50",
+        "finished_less": "15:20",
+        "names_of_less": "Иностранный язык",
+        "kabinet_of_less": "311",
+        "name_of_teacher": "асс. Черепова  Влада Вячеславовна",
+        "type_less": "лабораторная"
+    },
+    "115": {
+        "everD": "01.03",
+        "day": "Среда",
+        "starting_less": "08:30",
+        "finished_less": "10:00",
+        "names_of_less": "Безопасность жизнедеятельности",
+        "kabinet_of_less": "225",
+        "name_of_teacher": "доц. Петрова Наталья Владимировна",
+        "type_less": "практика"
+    },
+    "116": {
+        "everD": "01.03",
+        "day": "Среда",
+        "starting_less": "10:10",
+        "finished_less": "11:40",
+        "names_of_less": "Прикладное программирование",
+        "kabinet_of_less": "429",
+        "name_of_teacher": "доц. Бугаков  Петр Юрьевич",
+        "type_less": "лекция"
+    },
+    "117": {
+        "everD": "01.03",
+        "day": "Среда",
+        "starting_less": "12:10",
+        "finished_less": "13:40",
+        "names_of_less": "Методы и средства проектирования информационных систем и технологий",
+        "kabinet_of_less": "427",
+        "name_of_teacher": "доц. Басаргин Андрей Александрович",
+        "type_less": "лабораторная"
+    },
+    "118": {
+        "everD": "01.03",
+        "day": "Среда",
+        "starting_less": "13:50",
+        "finished_less": "15:20",
+        "names_of_less": "Большие данные",
+        "kabinet_of_less": "36",
+        "name_of_teacher": "асс. Гришин Руслан Владимирович",
+        "type_less": "лабораторная"
+    },
+    "119": {
+        "everD": "02.03",
+        "day": "Четверг",
+        "starting_less": "15:30",
+        "finished_less": "17:00",
+        "names_of_less": "Физическая культура и спорт (элективные дисциплины)",
+        "kabinet_of_less": " Без аудитории",
+        "name_of_teacher": "ст. преп. Пичугина Надежда Юрьевна",
+        "type_less": "практика"
+    },
+    "120": {
+        "everD": "02.03",
+        "day": "Четверг",
+        "starting_less": "17:10",
+        "finished_less": "18:40",
+        "names_of_less": "Физическая культура и спорт (элективные дисциплины)",
+        "kabinet_of_less": " Без аудитории",
+        "name_of_teacher": "ст. преп. Пичугина Надежда Юрьевна",
+        "type_less": "практика"
+    },
+    "121": {
+        "everD": "03.03",
+        "day": "Пятница",
+        "starting_less": "12:10",
+        "finished_less": "13:40",
+        "names_of_less": "Основы сетевых технологий",
+        "kabinet_of_less": "430",
+        "name_of_teacher": "асс. Миронов Павел Николаевич",
+        "type_less": "лекция"
+    },
+    "122": {
+        "everD": "03.03",
+        "day": "Пятница",
+        "starting_less": "13:50",
+        "finished_less": "15:20",
+        "names_of_less": "Методы и средства проектирования информационных систем и технологий",
+        "kabinet_of_less": "421",
+        "name_of_teacher": "доц. Басаргин Андрей Александрович",
+        "type_less": "лабораторная"
+    },
+    "123": {
+        "everD": "03.03",
+        "day": "Пятница",
+        "starting_less": "15:30",
+        "finished_less": "17:00",
+        "names_of_less": "Основы сетевых технологий",
+        "kabinet_of_less": "140",
+        "name_of_teacher": "асс. Миронов Павел Николаевич",
+        "type_less": "лабораторная"
+    },
+    "124": {
+        "everD": "04.03",
+        "day": "Суббота",
+        "starting_less": "08:30",
+        "finished_less": "10:00",
+        "names_of_less": "Прикладное программирование",
+        "kabinet_of_less": "427",
+        "name_of_teacher": "доц. Бугаков  Петр Юрьевич",
+        "type_less": "лабораторная"
+    },
+    "125": {
+        "everD": "04.03",
+        "day": "Суббота",
+        "starting_less": "10:10",
+        "finished_less": "11:40",
+        "names_of_less": "Большие данные",
+        "kabinet_of_less": "406",
+        "name_of_teacher": "асс. Гришин Руслан Владимирович",
+        "type_less": "лабораторная"
+    },
+    "126": {
+        "everD": "06.03",
+        "day": "Понедельник",
+        "starting_less": "12:10",
+        "finished_less": "13:40",
+        "names_of_less": "Безопасность жизнедеятельности",
+        "kabinet_of_less": "310",
+        "name_of_teacher": "доц. Петрова Наталья Владимировна",
+        "type_less": "лекция"
+    },
+    "127": {
+        "everD": "06.03",
+        "day": "Понедельник",
+        "starting_less": "13:50",
+        "finished_less": "15:20",
+        "names_of_less": "Большие данные",
+        "kabinet_of_less": "36",
+        "name_of_teacher": "асс. Гришин Руслан Владимирович",
+        "type_less": "лабораторная"
+    },
+    "128": {
+        "everD": "06.03",
+        "day": "Понедельник",
+        "starting_less": "15:30",
+        "finished_less": "17:00",
+        "names_of_less": "Иностранный язык",
+        "kabinet_of_less": "311",
+        "name_of_teacher": "асс. Черепова  Влада Вячеславовна",
+        "type_less": "лабораторная"
+    },
+    "129": {
+        "everD": "07.03",
+        "day": "Вторник",
+        "starting_less": "12:10",
+        "finished_less": "13:40",
+        "names_of_less": "Web - дизайн",
+        "kabinet_of_less": "429",
+        "name_of_teacher": "ст. преп. Воронкин Евгений Юрьевич",
+        "type_less": "лекция"
+    },
+    "130": {
+        "everD": "07.03",
+        "day": "Вторник",
+        "starting_less": "13:50",
+        "finished_less": "15:20",
+        "names_of_less": "Web - дизайн",
+        "kabinet_of_less": "421",
+        "name_of_teacher": "ст. преп. Воронкин Евгений Юрьевич",
+        "type_less": "лабораторная"
+    },
+    "131": {
+        "everD": "07.03",
+        "day": "Вторник",
+        "starting_less": "15:30",
+        "finished_less": "17:00",
+        "names_of_less": "Методы и средства проектирования информационных систем и технологий",
+        "kabinet_of_less": "427",
+        "name_of_teacher": "доц. Басаргин Андрей Александрович",
+        "type_less": "лабораторная"
+    },
+    "132": {
+        "everD": "08.03",
+        "day": "Среда",
+        "starting_less": "10:10",
+        "finished_less": "11:40",
+        "names_of_less": "Большие данные",
+        "kabinet_of_less": "227",
+        "name_of_teacher": "асс. Шарапов Артем Андреевич",
+        "type_less": "лекция"
+    },
+    "133": {
+        "everD": "08.03",
+        "day": "Среда",
+        "starting_less": "12:10",
+        "finished_less": "13:40",
+        "names_of_less": "Прикладное программирование",
+        "kabinet_of_less": "202",
+        "name_of_teacher": "доц. Бугаков  Петр Юрьевич",
+        "type_less": "лекция"
+    },
+    "134": {
+        "everD": "08.03",
+        "day": "Среда",
+        "starting_less": "13:50",
+        "finished_less": "15:20",
+        "names_of_less": "Иностранный язык",
+        "kabinet_of_less": "311",
+        "name_of_teacher": "асс. Черепова  Влада Вячеславовна",
+        "type_less": "лабораторная"
+    },
+    "135": {
+        "everD": "08.03",
+        "day": "Среда",
+        "starting_less": "15:30",
+        "finished_less": "17:00",
+        "names_of_less": "Основы сетевых технологий",
+        "kabinet_of_less": "140",
+        "name_of_teacher": "асс. Миронов Павел Николаевич",
+        "type_less": "лабораторная"
+    },
+    "136": {
+        "everD": "09.03",
+        "day": "Четверг",
+        "starting_less": "15:30",
+        "finished_less": "17:00",
+        "names_of_less": "Физическая культура и спорт (элективные дисциплины)",
+        "kabinet_of_less": " Без аудитории",
+        "name_of_teacher": "ст. преп. Пичугина Надежда Юрьевна",
+        "type_less": "практика"
+    },
+    "137": {
+        "everD": "10.03",
+        "day": "Пятница",
+        "starting_less": "10:10",
+        "finished_less": "11:40",
+        "names_of_less": "Прикладное программирование",
+        "kabinet_of_less": "427",
+        "name_of_teacher": "доц. Бугаков  Петр Юрьевич",
+        "type_less": "лабораторная"
+    },
+    "138": {
+        "everD": "10.03",
+        "day": "Пятница",
+        "starting_less": "12:10",
+        "finished_less": "13:40",
+        "names_of_less": "Безопасность жизнедеятельности",
+        "kabinet_of_less": "225",
+        "name_of_teacher": "доц. Петрова Наталья Владимировна",
+        "type_less": "практика"
+    },
+    "139": {
+        "everD": "10.03",
+        "day": "Пятница",
+        "starting_less": "13:50",
+        "finished_less": "15:20",
+        "names_of_less": "Методы и средства проектирования информационных систем и технологий",
+        "kabinet_of_less": "227",
+        "name_of_teacher": "доц. Басаргин Андрей Александрович",
+        "type_less": "лекция"
+    },
+    "140": {
+        "everD": "13.03",
+        "day": "Понедельник",
+        "starting_less": "10:10",
+        "finished_less": "11:40",
+        "names_of_less": "Основы сетевых технологий",
+        "kabinet_of_less": "140",
+        "name_of_teacher": "асс. Миронов Павел Николаевич",
+        "type_less": "лабораторная"
+    },
+    "141": {
+        "everD": "13.03",
+        "day": "Понедельник",
+        "starting_less": "12:10",
+        "finished_less": "13:40",
+        "names_of_less": "Большие данные",
+        "kabinet_of_less": "202",
+        "name_of_teacher": "асс. Шарапов Артем Андреевич",
+        "type_less": "лекция"
+    },
+    "142": {
+        "everD": "13.03",
+        "day": "Понедельник",
+        "starting_less": "13:50",
+        "finished_less": "15:20",
+        "names_of_less": "Безопасность жизнедеятельности",
+        "kabinet_of_less": "227",
+        "name_of_teacher": "доц. Петрова Наталья Владимировна",
+        "type_less": "лекция"
+    },
+    "143": {
+        "everD": "14.03",
+        "day": "Вторник",
+        "starting_less": "10:10",
+        "finished_less": "11:40",
+        "names_of_less": "Web - дизайн",
+        "kabinet_of_less": "406",
+        "name_of_teacher": "ст. преп. Воронкин Евгений Юрьевич",
+        "type_less": "лабораторная"
+    },
+    "144": {
+        "everD": "14.03",
+        "day": "Вторник",
+        "starting_less": "12:10",
+        "finished_less": "13:40",
+        "names_of_less": "Методы и средства проектирования информационных систем и технологий",
+        "kabinet_of_less": "429",
+        "name_of_teacher": "доц. Басаргин Андрей Александрович",
+        "type_less": "лекция"
+    },
+    "145": {
+        "everD": "14.03",
+        "day": "Вторник",
+        "starting_less": "13:50",
+        "finished_less": "15:20",
+        "names_of_less": "Иностранный язык",
+        "kabinet_of_less": "311",
+        "name_of_teacher": "асс. Черепова  Влада Вячеславовна",
+        "type_less": "лабораторная"
+    },
+    "146": {
+        "everD": "15.03",
+        "day": "Среда",
+        "starting_less": "08:30",
+        "finished_less": "10:00",
+        "names_of_less": "Безопасность жизнедеятельности",
+        "kabinet_of_less": "225",
+        "name_of_teacher": "доц. Петрова Наталья Владимировна",
+        "type_less": "практика"
+    },
+    "147": {
+        "everD": "15.03",
+        "day": "Среда",
+        "starting_less": "10:10",
+        "finished_less": "11:40",
+        "names_of_less": "Прикладное программирование",
+        "kabinet_of_less": "429",
+        "name_of_teacher": "доц. Бугаков  Петр Юрьевич",
+        "type_less": "лекция"
+    },
+    "148": {
+        "everD": "15.03",
+        "day": "Среда",
+        "starting_less": "12:10",
+        "finished_less": "13:40",
+        "names_of_less": "Методы и средства проектирования информационных систем и технологий",
+        "kabinet_of_less": "427",
+        "name_of_teacher": "доц. Басаргин Андрей Александрович",
+        "type_less": "лабораторная"
+    },
+    "149": {
+        "everD": "15.03",
+        "day": "Среда",
+        "starting_less": "13:50",
+        "finished_less": "15:20",
+        "names_of_less": "Большие данные",
+        "kabinet_of_less": "36",
+        "name_of_teacher": "асс. Гришин Руслан Владимирович",
+        "type_less": "лабораторная"
+    },
+    "150": {
+        "everD": "16.03",
+        "day": "Четверг",
+        "starting_less": "15:30",
+        "finished_less": "17:00",
+        "names_of_less": "Физическая культура и спорт (элективные дисциплины)",
+        "kabinet_of_less": " Без аудитории",
+        "name_of_teacher": "ст. преп. Пичугина Надежда Юрьевна",
+        "type_less": "практика"
+    },
+    "151": {
+        "everD": "16.03",
+        "day": "Четверг",
+        "starting_less": "17:10",
+        "finished_less": "18:40",
+        "names_of_less": "Физическая культура и спорт (элективные дисциплины)",
+        "kabinet_of_less": " Без аудитории",
+        "name_of_teacher": "ст. преп. Пичугина Надежда Юрьевна",
+        "type_less": "практика"
+    },
+    "152": {
+        "everD": "17.03",
+        "day": "Пятница",
+        "starting_less": "12:10",
+        "finished_less": "13:40",
+        "names_of_less": "Основы сетевых технологий",
+        "kabinet_of_less": "430",
+        "name_of_teacher": "асс. Миронов Павел Николаевич",
+        "type_less": "лекция"
+    },
+    "153": {
+        "everD": "17.03",
+        "day": "Пятница",
+        "starting_less": "13:50",
+        "finished_less": "15:20",
+        "names_of_less": "Методы и средства проектирования информационных систем и технологий",
+        "kabinet_of_less": "421",
+        "name_of_teacher": "доц. Басаргин Андрей Александрович",
+        "type_less": "лабораторная"
+    },
+    "154": {
+        "everD": "17.03",
+        "day": "Пятница",
+        "starting_less": "15:30",
+        "finished_less": "17:00",
+        "names_of_less": "Основы сетевых технологий",
+        "kabinet_of_less": "140",
+        "name_of_teacher": "асс. Миронов Павел Николаевич",
+        "type_less": "лабораторная"
+    },
+    "155": {
+        "everD": "18.03",
+        "day": "Суббота",
+        "starting_less": "08:30",
+        "finished_less": "10:00",
+        "names_of_less": "Прикладное программирование",
+        "kabinet_of_less": "427",
+        "name_of_teacher": "доц. Бугаков  Петр Юрьевич",
+        "type_less": "лабораторная"
+    },
+    "156": {
+        "everD": "18.03",
+        "day": "Суббота",
+        "starting_less": "10:10",
+        "finished_less": "11:40",
+        "names_of_less": "Большие данные",
+        "kabinet_of_less": "406",
+        "name_of_teacher": "асс. Гришин Руслан Владимирович",
+        "type_less": "лабораторная"
+    },
+    "157": {
+        "everD": "20.03",
+        "day": "Понедельник",
+        "starting_less": "12:10",
+        "finished_less": "13:40",
+        "names_of_less": "Безопасность жизнедеятельности",
+        "kabinet_of_less": "310",
+        "name_of_teacher": "доц. Петрова Наталья Владимировна",
+        "type_less": "лекция"
+    },
+    "158": {
+        "everD": "20.03",
+        "day": "Понедельник",
+        "starting_less": "13:50",
+        "finished_less": "15:20",
+        "names_of_less": "Большие данные",
+        "kabinet_of_less": "36",
+        "name_of_teacher": "асс. Гришин Руслан Владимирович",
+        "type_less": "лабораторная"
+    },
+    "159": {
+        "everD": "20.03",
+        "day": "Понедельник",
+        "starting_less": "15:30",
+        "finished_less": "17:00",
+        "names_of_less": "Иностранный язык",
+        "kabinet_of_less": "311",
+        "name_of_teacher": "асс. Черепова  Влада Вячеславовна",
+        "type_less": "лабораторная"
+    },
+    "160": {
+        "everD": "21.03",
+        "day": "Вторник",
+        "starting_less": "12:10",
+        "finished_less": "13:40",
+        "names_of_less": "Web - дизайн",
+        "kabinet_of_less": "429",
+        "name_of_teacher": "ст. преп. Воронкин Евгений Юрьевич",
+        "type_less": "лекция"
+    },
+    "161": {
+        "everD": "21.03",
+        "day": "Вторник",
+        "starting_less": "13:50",
+        "finished_less": "15:20",
+        "names_of_less": "Web - дизайн",
+        "kabinet_of_less": "421",
+        "name_of_teacher": "ст. преп. Воронкин Евгений Юрьевич",
+        "type_less": "лабораторная"
+    },
+    "162": {
+        "everD": "21.03",
+        "day": "Вторник",
+        "starting_less": "15:30",
+        "finished_less": "17:00",
+        "names_of_less": "Методы и средства проектирования информационных систем и технологий",
+        "kabinet_of_less": "427",
+        "name_of_teacher": "доц. Басаргин Андрей Александрович",
+        "type_less": "лабораторная"
+    },
+    "163": {
+        "everD": "22.03",
+        "day": "Среда",
+        "starting_less": "10:10",
+        "finished_less": "11:40",
+        "names_of_less": "Большие данные",
+        "kabinet_of_less": "227",
+        "name_of_teacher": "асс. Шарапов Артем Андреевич",
+        "type_less": "лекция"
+    },
+    "164": {
+        "everD": "22.03",
+        "day": "Среда",
+        "starting_less": "12:10",
+        "finished_less": "13:40",
+        "names_of_less": "Прикладное программирование",
+        "kabinet_of_less": "202",
+        "name_of_teacher": "доц. Бугаков  Петр Юрьевич",
+        "type_less": "лекция"
+    },
+    "165": {
+        "everD": "22.03",
+        "day": "Среда",
+        "starting_less": "13:50",
+        "finished_less": "15:20",
+        "names_of_less": "Иностранный язык",
+        "kabinet_of_less": "311",
+        "name_of_teacher": "асс. Черепова  Влада Вячеславовна",
+        "type_less": "лабораторная"
+    },
+    "166": {
+        "everD": "22.03",
+        "day": "Среда",
+        "starting_less": "15:30",
+        "finished_less": "17:00",
+        "names_of_less": "Основы сетевых технологий",
+        "kabinet_of_less": "140",
+        "name_of_teacher": "асс. Миронов Павел Николаевич",
+        "type_less": "лабораторная"
+    },
+    "167": {
+        "everD": "23.03",
+        "day": "Четверг",
+        "starting_less": "15:30",
+        "finished_less": "17:00",
+        "names_of_less": "Физическая культура и спорт (элективные дисциплины)",
+        "kabinet_of_less": " Без аудитории",
+        "name_of_teacher": "ст. преп. Пичугина Надежда Юрьевна",
+        "type_less": "практика"
+    },
+    "168": {
+        "everD": "24.03",
+        "day": "Пятница",
+        "starting_less": "10:10",
+        "finished_less": "11:40",
+        "names_of_less": "Прикладное программирование",
+        "kabinet_of_less": "427",
+        "name_of_teacher": "доц. Бугаков  Петр Юрьевич",
+        "type_less": "лабораторная"
+    },
+    "169": {
+        "everD": "24.03",
+        "day": "Пятница",
+        "starting_less": "12:10",
+        "finished_less": "13:40",
+        "names_of_less": "Безопасность жизнедеятельности",
+        "kabinet_of_less": "225",
+        "name_of_teacher": "доц. Петрова Наталья Владимировна",
+        "type_less": "практика"
+    },
+    "170": {
+        "everD": "24.03",
+        "day": "Пятница",
+        "starting_less": "13:50",
+        "finished_less": "15:20",
+        "names_of_less": "Методы и средства проектирования информационных систем и технологий",
+        "kabinet_of_less": "227",
+        "name_of_teacher": "доц. Басаргин Андрей Александрович",
+        "type_less": "лекция"
+    },
+    "171": {
+        "everD": "27.03",
+        "day": "Понедельник",
+        "starting_less": "10:10",
+        "finished_less": "11:40",
+        "names_of_less": "Основы сетевых технологий",
+        "kabinet_of_less": "140",
+        "name_of_teacher": "асс. Миронов Павел Николаевич",
+        "type_less": "лабораторная"
+    },
+    "172": {
+        "everD": "27.03",
+        "day": "Понедельник",
+        "starting_less": "12:10",
+        "finished_less": "13:40",
+        "names_of_less": "Большие данные",
+        "kabinet_of_less": "202",
+        "name_of_teacher": "асс. Шарапов Артем Андреевич",
+        "type_less": "лекция"
+    },
+    "173": {
+        "everD": "27.03",
+        "day": "Понедельник",
+        "starting_less": "13:50",
+        "finished_less": "15:20",
+        "names_of_less": "Безопасность жизнедеятельности",
+        "kabinet_of_less": "227",
+        "name_of_teacher": "доц. Петрова Наталья Владимировна",
+        "type_less": "лекция"
+    },
+    "174": {
+        "everD": "28.03",
+        "day": "Вторник",
+        "starting_less": "10:10",
+        "finished_less": "11:40",
+        "names_of_less": "Web - дизайн",
+        "kabinet_of_less": "406",
+        "name_of_teacher": "ст. преп. Воронкин Евгений Юрьевич",
+        "type_less": "лабораторная"
+    },
+    "175": {
+        "everD": "28.03",
+        "day": "Вторник",
+        "starting_less": "12:10",
+        "finished_less": "13:40",
+        "names_of_less": "Методы и средства проектирования информационных систем и технологий",
+        "kabinet_of_less": "429",
+        "name_of_teacher": "доц. Басаргин Андрей Александрович",
+        "type_less": "лекция"
+    },
+    "176": {
+        "everD": "28.03",
+        "day": "Вторник",
+        "starting_less": "13:50",
+        "finished_less": "15:20",
+        "names_of_less": "Иностранный язык",
+        "kabinet_of_less": "311",
+        "name_of_teacher": "асс. Черепова  Влада Вячеславовна",
+        "type_less": "лабораторная"
+    },
+    "177": {
+        "everD": "29.03",
+        "day": "Среда",
+        "starting_less": "08:30",
+        "finished_less": "10:00",
+        "names_of_less": "Безопасность жизнедеятельности",
+        "kabinet_of_less": "225",
+        "name_of_teacher": "доц. Петрова Наталья Владимировна",
+        "type_less": "практика"
+    },
+    "178": {
+        "everD": "29.03",
+        "day": "Среда",
+        "starting_less": "10:10",
+        "finished_less": "11:40",
+        "names_of_less": "Прикладное программирование",
+        "kabinet_of_less": "429",
+        "name_of_teacher": "доц. Бугаков  Петр Юрьевич",
+        "type_less": "лекция"
+    },
+    "179": {
+        "everD": "29.03",
+        "day": "Среда",
+        "starting_less": "12:10",
+        "finished_less": "13:40",
+        "names_of_less": "Методы и средства проектирования информационных систем и технологий",
+        "kabinet_of_less": "427",
+        "name_of_teacher": "доц. Басаргин Андрей Александрович",
+        "type_less": "лабораторная"
+    },
+    "180": {
+        "everD": "29.03",
+        "day": "Среда",
+        "starting_less": "13:50",
+        "finished_less": "15:20",
+        "names_of_less": "Большие данные",
+        "kabinet_of_less": "36",
+        "name_of_teacher": "асс. Гришин Руслан Владимирович",
+        "type_less": "лабораторная"
+    },
+    "181": {
+        "everD": "30.03",
+        "day": "Четверг",
+        "starting_less": "15:30",
+        "finished_less": "17:00",
+        "names_of_less": "Физическая культура и спорт (элективные дисциплины)",
+        "kabinet_of_less": " Без аудитории",
+        "name_of_teacher": "ст. преп. Пичугина Надежда Юрьевна",
+        "type_less": "практика"
+    },
+    "182": {
+        "everD": "30.03",
+        "day": "Четверг",
+        "starting_less": "17:10",
+        "finished_less": "18:40",
+        "names_of_less": "Физическая культура и спорт (элективные дисциплины)",
+        "kabinet_of_less": " Без аудитории",
+        "name_of_teacher": "ст. преп. Пичугина Надежда Юрьевна",
+        "type_less": "практика"
+    },
+    "183": {
+        "everD": "31.03",
+        "day": "Пятница",
+        "starting_less": "12:10",
+        "finished_less": "13:40",
+        "names_of_less": "Основы сетевых технологий",
+        "kabinet_of_less": "430",
+        "name_of_teacher": "асс. Миронов Павел Николаевич",
+        "type_less": "лекция"
+    },
+    "184": {
+        "everD": "31.03",
+        "day": "Пятница",
+        "starting_less": "13:50",
+        "finished_less": "15:20",
+        "names_of_less": "Методы и средства проектирования информационных систем и технологий",
+        "kabinet_of_less": "421",
+        "name_of_teacher": "доц. Басаргин Андрей Александрович",
+        "type_less": "лабораторная"
+    },
+    "185": {
+        "everD": "31.03",
+        "day": "Пятница",
+        "starting_less": "15:30",
+        "finished_less": "17:00",
+        "names_of_less": "Основы сетевых технологий",
+        "kabinet_of_less": "140",
+        "name_of_teacher": "асс. Миронов Павел Николаевич",
+        "type_less": "лабораторная"
+    },
+    "186": {
+        "everD": "01.04",
+        "day": "Суббота",
+        "starting_less": "08:30",
+        "finished_less": "10:00",
+        "names_of_less": "Прикладное программирование",
+        "kabinet_of_less": "427",
+        "name_of_teacher": "доц. Бугаков  Петр Юрьевич",
+        "type_less": "лабораторная"
+    },
+    "187": {
+        "everD": "01.04",
+        "day": "Суббота",
+        "starting_less": "10:10",
+        "finished_less": "11:40",
+        "names_of_less": "Большие данные",
+        "kabinet_of_less": "406",
+        "name_of_teacher": "асс. Гришин Руслан Владимирович",
+        "type_less": "лабораторная"
+    },
+    "188": {
+        "everD": "03.04",
+        "day": "Понедельник",
+        "starting_less": "12:10",
+        "finished_less": "13:40",
+        "names_of_less": "Безопасность жизнедеятельности",
+        "kabinet_of_less": "310",
+        "name_of_teacher": "доц. Петрова Наталья Владимировна",
+        "type_less": "лекция"
+    },
+    "189": {
+        "everD": "03.04",
+        "day": "Понедельник",
+        "starting_less": "13:50",
+        "finished_less": "15:20",
+        "names_of_less": "Большие данные",
+        "kabinet_of_less": "36",
+        "name_of_teacher": "асс. Гришин Руслан Владимирович",
+        "type_less": "лабораторная"
+    },
+    "190": {
+        "everD": "03.04",
+        "day": "Понедельник",
+        "starting_less": "15:30",
+        "finished_less": "17:00",
+        "names_of_less": "Иностранный язык",
+        "kabinet_of_less": "311",
+        "name_of_teacher": "асс. Черепова  Влада Вячеславовна",
+        "type_less": "лабораторная"
+    },
+    "191": {
+        "everD": "04.04",
+        "day": "Вторник",
+        "starting_less": "12:10",
+        "finished_less": "13:40",
+        "names_of_less": "Web - дизайн",
+        "kabinet_of_less": "429",
+        "name_of_teacher": "ст. преп. Воронкин Евгений Юрьевич",
+        "type_less": "лекция"
+    },
+    "192": {
+        "everD": "04.04",
+        "day": "Вторник",
+        "starting_less": "13:50",
+        "finished_less": "15:20",
+        "names_of_less": "Web - дизайн",
+        "kabinet_of_less": "421",
+        "name_of_teacher": "ст. преп. Воронкин Евгений Юрьевич",
+        "type_less": "лабораторная"
+    },
+    "193": {
+        "everD": "04.04",
+        "day": "Вторник",
+        "starting_less": "15:30",
+        "finished_less": "17:00",
+        "names_of_less": "Методы и средства проектирования информационных систем и технологий",
+        "kabinet_of_less": "427",
+        "name_of_teacher": "доц. Басаргин Андрей Александрович",
+        "type_less": "лабораторная"
+    },
+    "194": {
+        "everD": "05.04",
+        "day": "Среда",
+        "starting_less": "10:10",
+        "finished_less": "11:40",
+        "names_of_less": "Большие данные",
+        "kabinet_of_less": "227",
+        "name_of_teacher": "асс. Шарапов Артем Андреевич",
+        "type_less": "лекция"
+    },
+    "195": {
+        "everD": "05.04",
+        "day": "Среда",
+        "starting_less": "12:10",
+        "finished_less": "13:40",
+        "names_of_less": "Прикладное программирование",
+        "kabinet_of_less": "202",
+        "name_of_teacher": "доц. Бугаков  Петр Юрьевич",
+        "type_less": "лекция"
+    },
+    "196": {
+        "everD": "05.04",
+        "day": "Среда",
+        "starting_less": "13:50",
+        "finished_less": "15:20",
+        "names_of_less": "Иностранный язык",
+        "kabinet_of_less": "311",
+        "name_of_teacher": "асс. Черепова  Влада Вячеславовна",
+        "type_less": "лабораторная"
+    },
+    "197": {
+        "everD": "05.04",
+        "day": "Среда",
+        "starting_less": "15:30",
+        "finished_less": "17:00",
+        "names_of_less": "Основы сетевых технологий",
+        "kabinet_of_less": "140",
+        "name_of_teacher": "асс. Миронов Павел Николаевич",
+        "type_less": "лабораторная"
+    },
+    "198": {
+        "everD": "06.04",
+        "day": "Четверг",
+        "starting_less": "15:30",
+        "finished_less": "17:00",
+        "names_of_less": "Физическая культура и спорт (элективные дисциплины)",
+        "kabinet_of_less": " Без аудитории",
+        "name_of_teacher": "ст. преп. Пичугина Надежда Юрьевна",
+        "type_less": "практика"
+    },
+    "199": {
+        "everD": "07.04",
+        "day": "Пятница",
+        "starting_less": "10:10",
+        "finished_less": "11:40",
+        "names_of_less": "Прикладное программирование",
+        "kabinet_of_less": "427",
+        "name_of_teacher": "доц. Бугаков  Петр Юрьевич",
+        "type_less": "лабораторная"
+    },
+    "200": {
+        "everD": "07.04",
+        "day": "Пятница",
+        "starting_less": "12:10",
+        "finished_less": "13:40",
+        "names_of_less": "Безопасность жизнедеятельности",
+        "kabinet_of_less": "225",
+        "name_of_teacher": "доц. Петрова Наталья Владимировна",
+        "type_less": "практика"
+    },
+    "201": {
+        "everD": "07.04",
+        "day": "Пятница",
+        "starting_less": "13:50",
+        "finished_less": "15:20",
+        "names_of_less": "Методы и средства проектирования информационных систем и технологий",
+        "kabinet_of_less": "227",
+        "name_of_teacher": "доц. Басаргин Андрей Александрович",
+        "type_less": "лекция"
+    },
+    "202": {
+        "everD": "10.04",
+        "day": "Понедельник",
+        "starting_less": "10:10",
+        "finished_less": "11:40",
+        "names_of_less": "Основы сетевых технологий",
+        "kabinet_of_less": "140",
+        "name_of_teacher": "асс. Миронов Павел Николаевич",
+        "type_less": "лабораторная"
+    },
+    "203": {
+        "everD": "10.04",
+        "day": "Понедельник",
+        "starting_less": "12:10",
+        "finished_less": "13:40",
+        "names_of_less": "Большие данные",
+        "kabinet_of_less": "202",
+        "name_of_teacher": "асс. Шарапов Артем Андреевич",
+        "type_less": "лекция"
+    },
+    "204": {
+        "everD": "10.04",
+        "day": "Понедельник",
+        "starting_less": "13:50",
+        "finished_less": "15:20",
+        "names_of_less": "Безопасность жизнедеятельности",
+        "kabinet_of_less": "227",
+        "name_of_teacher": "доц. Петрова Наталья Владимировна",
+        "type_less": "лекция"
+    },
+    "205": {
+        "everD": "11.04",
+        "day": "Вторник",
+        "starting_less": "10:10",
+        "finished_less": "11:40",
+        "names_of_less": "Web - дизайн",
+        "kabinet_of_less": "406",
+        "name_of_teacher": "ст. преп. Воронкин Евгений Юрьевич",
+        "type_less": "лабораторная"
+    },
+    "206": {
+        "everD": "11.04",
+        "day": "Вторник",
+        "starting_less": "12:10",
+        "finished_less": "13:40",
+        "names_of_less": "Методы и средства проектирования информационных систем и технологий",
+        "kabinet_of_less": "429",
+        "name_of_teacher": "доц. Басаргин Андрей Александрович",
+        "type_less": "лекция"
+    },
+    "207": {
+        "everD": "11.04",
+        "day": "Вторник",
+        "starting_less": "13:50",
+        "finished_less": "15:20",
+        "names_of_less": "Иностранный язык",
+        "kabinet_of_less": "311",
+        "name_of_teacher": "асс. Черепова  Влада Вячеславовна",
+        "type_less": "лабораторная"
+    },
+    "208": {
+        "everD": "12.04",
+        "day": "Среда",
+        "starting_less": "08:30",
+        "finished_less": "10:00",
+        "names_of_less": "Безопасность жизнедеятельности",
+        "kabinet_of_less": "225",
+        "name_of_teacher": "доц. Петрова Наталья Владимировна",
+        "type_less": "практика"
+    },
+    "209": {
+        "everD": "12.04",
+        "day": "Среда",
+        "starting_less": "10:10",
+        "finished_less": "11:40",
+        "names_of_less": "Прикладное программирование",
+        "kabinet_of_less": "429",
+        "name_of_teacher": "доц. Бугаков  Петр Юрьевич",
+        "type_less": "лекция"
+    },
+    "210": {
+        "everD": "12.04",
+        "day": "Среда",
+        "starting_less": "12:10",
+        "finished_less": "13:40",
+        "names_of_less": "Методы и средства проектирования информационных систем и технологий",
+        "kabinet_of_less": "427",
+        "name_of_teacher": "доц. Басаргин Андрей Александрович",
+        "type_less": "лабораторная"
+    },
+    "211": {
+        "everD": "12.04",
+        "day": "Среда",
+        "starting_less": "13:50",
+        "finished_less": "15:20",
+        "names_of_less": "Большие данные",
+        "kabinet_of_less": "36",
+        "name_of_teacher": "асс. Гришин Руслан Владимирович",
+        "type_less": "лабораторная"
+    },
+    "212": {
+        "everD": "13.04",
+        "day": "Четверг",
+        "starting_less": "15:30",
+        "finished_less": "17:00",
+        "names_of_less": "Физическая культура и спорт (элективные дисциплины)",
+        "kabinet_of_less": " Без аудитории",
+        "name_of_teacher": "ст. преп. Пичугина Надежда Юрьевна",
+        "type_less": "практика"
+    },
+    "213": {
+        "everD": "13.04",
+        "day": "Четверг",
+        "starting_less": "17:10",
+        "finished_less": "18:40",
+        "names_of_less": "Физическая культура и спорт (элективные дисциплины)",
+        "kabinet_of_less": " Без аудитории",
+        "name_of_teacher": "ст. преп. Пичугина Надежда Юрьевна",
+        "type_less": "практика"
+    },
+    "214": {
+        "everD": "14.04",
+        "day": "Пятница",
+        "starting_less": "12:10",
+        "finished_less": "13:40",
+        "names_of_less": "Основы сетевых технологий",
+        "kabinet_of_less": "430",
+        "name_of_teacher": "асс. Миронов Павел Николаевич",
+        "type_less": "лекция"
+    },
+    "215": {
+        "everD": "14.04",
+        "day": "Пятница",
+        "starting_less": "13:50",
+        "finished_less": "15:20",
+        "names_of_less": "Методы и средства проектирования информационных систем и технологий",
+        "kabinet_of_less": "421",
+        "name_of_teacher": "доц. Басаргин Андрей Александрович",
+        "type_less": "лабораторная"
+    },
+    "216": {
+        "everD": "14.04",
+        "day": "Пятница",
+        "starting_less": "15:30",
+        "finished_less": "17:00",
+        "names_of_less": "Основы сетевых технологий",
+        "kabinet_of_less": "140",
+        "name_of_teacher": "асс. Миронов Павел Николаевич",
+        "type_less": "лабораторная"
+    },
+    "217": {
+        "everD": "15.04",
+        "day": "Суббота",
+        "starting_less": "08:30",
+        "finished_less": "10:00",
+        "names_of_less": "Прикладное программирование",
+        "kabinet_of_less": "427",
+        "name_of_teacher": "доц. Бугаков  Петр Юрьевич",
+        "type_less": "лабораторная"
+    },
+    "218": {
+        "everD": "15.04",
+        "day": "Суббота",
+        "starting_less": "10:10",
+        "finished_less": "11:40",
+        "names_of_less": "Большие данные",
+        "kabinet_of_less": "406",
+        "name_of_teacher": "асс. Гришин Руслан Владимирович",
+        "type_less": "лабораторная"
+    },
+    "219": {
+        "everD": "17.04",
+        "day": "Понедельник",
+        "starting_less": "12:10",
+        "finished_less": "13:40",
+        "names_of_less": "Безопасность жизнедеятельности",
+        "kabinet_of_less": "310",
+        "name_of_teacher": "доц. Петрова Наталья Владимировна",
+        "type_less": "лекция"
+    },
+    "220": {
+        "everD": "17.04",
+        "day": "Понедельник",
+        "starting_less": "13:50",
+        "finished_less": "15:20",
+        "names_of_less": "Большие данные",
+        "kabinet_of_less": "36",
+        "name_of_teacher": "асс. Гришин Руслан Владимирович",
+        "type_less": "лабораторная"
+    },
+    "221": {
+        "everD": "17.04",
+        "day": "Понедельник",
+        "starting_less": "15:30",
+        "finished_less": "17:00",
+        "names_of_less": "Иностранный язык",
+        "kabinet_of_less": "311",
+        "name_of_teacher": "асс. Черепова  Влада Вячеславовна",
+        "type_less": "лабораторная"
+    },
+    "222": {
+        "everD": "18.04",
+        "day": "Вторник",
+        "starting_less": "12:10",
+        "finished_less": "13:40",
+        "names_of_less": "Web - дизайн",
+        "kabinet_of_less": "429",
+        "name_of_teacher": "ст. преп. Воронкин Евгений Юрьевич",
+        "type_less": "лекция"
+    },
+    "223": {
+        "everD": "18.04",
+        "day": "Вторник",
+        "starting_less": "13:50",
+        "finished_less": "15:20",
+        "names_of_less": "Web - дизайн",
+        "kabinet_of_less": "421",
+        "name_of_teacher": "ст. преп. Воронкин Евгений Юрьевич",
+        "type_less": "лабораторная"
+    },
+    "224": {
+        "everD": "18.04",
+        "day": "Вторник",
+        "starting_less": "15:30",
+        "finished_less": "17:00",
+        "names_of_less": "Методы и средства проектирования информационных систем и технологий",
+        "kabinet_of_less": "427",
+        "name_of_teacher": "доц. Басаргин Андрей Александрович",
+        "type_less": "лабораторная"
+    },
+    "225": {
+        "everD": "19.04",
+        "day": "Среда",
+        "starting_less": "10:10",
+        "finished_less": "11:40",
+        "names_of_less": "Большие данные",
+        "kabinet_of_less": "227",
+        "name_of_teacher": "асс. Шарапов Артем Андреевич",
+        "type_less": "лекция"
+    },
+    "226": {
+        "everD": "19.04",
+        "day": "Среда",
+        "starting_less": "12:10",
+        "finished_less": "13:40",
+        "names_of_less": "Прикладное программирование",
+        "kabinet_of_less": "202",
+        "name_of_teacher": "доц. Бугаков  Петр Юрьевич",
+        "type_less": "лекция"
+    },
+    "227": {
+        "everD": "19.04",
+        "day": "Среда",
+        "starting_less": "13:50",
+        "finished_less": "15:20",
+        "names_of_less": "Иностранный язык",
+        "kabinet_of_less": "311",
+        "name_of_teacher": "асс. Черепова  Влада Вячеславовна",
+        "type_less": "лабораторная"
+    },
+    "228": {
+        "everD": "19.04",
+        "day": "Среда",
+        "starting_less": "15:30",
+        "finished_less": "17:00",
+        "names_of_less": "Основы сетевых технологий",
+        "kabinet_of_less": "140",
+        "name_of_teacher": "асс. Миронов Павел Николаевич",
+        "type_less": "лабораторная"
+    },
+    "229": {
+        "everD": "20.04",
+        "day": "Четверг",
+        "starting_less": "15:30",
+        "finished_less": "17:00",
+        "names_of_less": "Физическая культура и спорт (элективные дисциплины)",
+        "kabinet_of_less": " Без аудитории",
+        "name_of_teacher": "ст. преп. Пичугина Надежда Юрьевна",
+        "type_less": "практика"
+    },
+    "230": {
+        "everD": "21.04",
+        "day": "Пятница",
+        "starting_less": "10:10",
+        "finished_less": "11:40",
+        "names_of_less": "Прикладное программирование",
+        "kabinet_of_less": "427",
+        "name_of_teacher": "доц. Бугаков  Петр Юрьевич",
+        "type_less": "лабораторная"
+    },
+    "231": {
+        "everD": "21.04",
+        "day": "Пятница",
+        "starting_less": "12:10",
+        "finished_less": "13:40",
+        "names_of_less": "Безопасность жизнедеятельности",
+        "kabinet_of_less": "225",
+        "name_of_teacher": "доц. Петрова Наталья Владимировна",
+        "type_less": "практика"
+    },
+    "232": {
+        "everD": "21.04",
+        "day": "Пятница",
+        "starting_less": "13:50",
+        "finished_less": "15:20",
+        "names_of_less": "Методы и средства проектирования информационных систем и технологий",
+        "kabinet_of_less": "227",
+        "name_of_teacher": "доц. Басаргин Андрей Александрович",
+        "type_less": "лекция"
+    }
+}
